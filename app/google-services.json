@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1053558955819",
+    "firebase_url": "https://officemngsystem.firebaseio.com",
+    "project_id": "officemngsystem",
+    "storage_bucket": "officemngsystem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053558955819:android:853cd67f6e639985",
+        "android_client_info": {
+          "package_name": "com.example.admin.officemngsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053558955819-5m5ebgmh3q270mfikjfr67pij5licol9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKQ2HdzyGlda94NNCEqD8bQ7mCSGgmbzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053558955819-5m5ebgmh3q270mfikjfr67pij5licol9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
